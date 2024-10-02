@@ -21,7 +21,7 @@ Original file is located at
 """
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import seaborn as sns
 import streamlit as st
 import io
