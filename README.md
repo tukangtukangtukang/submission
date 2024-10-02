@@ -15,6 +15,7 @@ cd proyek_analisis_data
 pipenv install
 pipenv shell
 pip install -r requirements.txt
+pip install matplotlib
 ```
 
 ## Run steamlit app
