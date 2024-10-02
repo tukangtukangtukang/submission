@@ -31,8 +31,8 @@ import io
 ### Gathering Data
 """ 
 
-df_day = pd.read_csv('https://raw.githubusercontent.com/tukangtukangtukang/FinalProyekAnalisisData/main/day.csv')
-df_hour = pd.read_csv('https://raw.githubusercontent.com/tukangtukangtukang/FinalProyekAnalisisData/main/hour.csv')
+df_day = pd.read_csv('https://raw.githubusercontent.com/tukangtukangtukang/submission/main/data/day.csv')
+df_hour = pd.read_csv('https://raw.githubusercontent.com/tukangtukangtukang/submission/main/data/hour.csv')
 st.write(df_day.head())
 st.write(df_hour.head())
 
