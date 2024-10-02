@@ -1,1 +1,1 @@
-http://localhost:8501
+submission-pcar9f9avlxmolhqoh959l.streamlit.app
